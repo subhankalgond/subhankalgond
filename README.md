@@ -1,3 +1,6 @@
+# 💫 About Me:
+Hi, I’m Subhan Kalgond, a 2nd-year <br>Data Science student at Anjuman Institute of Technology <br>and Management. I’m interested in programming, <br>technology, and data-driven problem solving.<br> I have experience with Python, Java, and SQL and I’m<br> continuously learning and improving my technical skills. <br>I enjoy building projects, solving problems, and exploring <br>new technologies in <br>Data Science and Software Development.
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdulsubhan03) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subhan kalgond) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subhankalgond1@gmail.com) 
