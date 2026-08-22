@@ -1,97 +1,24 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=200&section=header&text=Subhan%20Kalgond&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CS%20Student&descAlignY=55&descSize=18" width="100%"/>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdulsubhan03) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subhan kalgond) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subhankalgond1@gmail.com) 
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=CS+Student;Java+%7C+Python+%7C+SQL;Building+Doc+AI;Open+to+Internship+Opportunities" alt="Typing SVG" />
-</a>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=subhankalgond&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=subhankalgond&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=subhankalgond&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<br/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=subhankalgond&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-![Open to Work](https://img.shields.io/badge/Open%20to-Internships-7dd3fc?style=for-the-badge)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![Profile Views](https://komarev.com/ghpvc/?username=subhankalgond&color=7dd3fc&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/subhankalgond?label=Followers&style=for-the-badge&color=7dd3fc)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=subhankalgond&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-</div>
+---
+[![](https://komarev.com/ghpvc/?username=subhankalgond&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<br/>
-
-## 🧠 Who I Am
-
-```typescript
-const subhan = {
-  title: "CS Student",
-  stack: ["Java", "Python", "SQL"],
-  launchedProjects: ["hackprix20"],
-  status: "Open to Internship Opportunities",
-  openTo: ["Internships", "Collaborations"],
-};
-```
-
-<br/>
-
-## 🚀 Featured Projects
-
-### 📌 Doc AI (`hackprix20`)
-
-| Layer      | Technology |
-|------------|------------|
-| Language   | Java / Python |
-| Data       | SQL |
-
-[![Code](https://img.shields.io/badge/Code-View%20Repo-7dd3fc?style=for-the-badge&logo=github)](https://github.com/subhankalgond/hackprix20)
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=subhankalgond&repo=hackprix20&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="hackprix20 repo card"/>
-
-<br/>
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![Skills](https://skillicons.dev/icons?i=java,python)
-
-**Database**
-
-![SQL](https://img.shields.io/badge/SQL-7dd3fc?style=for-the-badge&logo=postgresql&logoColor=white)
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=subhankalgond&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhankalgond&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" alt="Top Languages" height="165"/>
-
-<img src="https://streak-stats.demolab.com?user=subhankalgond&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc" alt="GitHub Streak"/>
-
-</div>
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=subhankalgond&theme=nord&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies"/>
-
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=subhankalgond&theme=nord&color=7dd3fc&line=7dd3fc&point=ffffff" alt="Activity Graph"/>
-
-</div>
-
-## 🔗 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-subhan-713a3b33b)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subhankalgond1@gmail.com)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7dd3fc&height=120&section=footer&animation=twinkling" width="100%"/>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
